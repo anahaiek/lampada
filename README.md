@@ -1,4 +1,4 @@
-# lampada
+# Lâmpada de Ana
 Uma lâmpada que acende e que não deve ser quebrada!
 Teste a lâmpada aqui: https://anahaiek.github.io/lampada/
 
