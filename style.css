@@ -1,0 +1,40 @@
+header, main {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 20px;
+    border: 2px;
+    border-radius: 5px;
+    background-color: rgb(183, 212, 253);
+    color: rgb(21, 57, 134);
+    align-items: center;
+    font-size: 16px;
+    font-size: large;
+}
+
+#subLamp { 
+bottom: 0;
+left: 0;
+width: 80%;
+align-items: center;
+margin-left: 38px;
+}
+
+#turnOn{
+    margin-left: 15px;
+    width: 45%;
+    align-items: center;
+}
+#turnOff{
+    width: 45%;
+    align-items: center;
+}
+
+#h4 {
+    margin-left: 90px;
+    align-items: center;
+    color: rgb(248, 35, 7);
+}
